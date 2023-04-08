@@ -1,0 +1,16 @@
+PODS:
+  - 0x.swift (0.1.0)
+
+DEPENDENCIES:
+  - 0x.swift (from `../`)
+
+EXTERNAL SOURCES:
+  0x.swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  0x.swift: 5806f39d6bb5b8e44a0dc6eeda647256e2399f39
+
+PODFILE CHECKSUM: 8afdb07fa52f6e1489bb8f31f84963e11a3263cc
+
+COCOAPODS: 1.12.0
